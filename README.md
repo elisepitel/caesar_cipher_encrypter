@@ -4,7 +4,7 @@
 https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/caesar-cipher
 
 
-##Info about code : 
+## Info about code : 
 
 Within the console inform if you want to encode or decode a message
 
