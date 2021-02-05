@@ -8,7 +8,7 @@ https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/caes
 
 Within the console inform if you want to encode or decode a message
 
-Type your code to encode or decode 
+Type your message to encode or decode 
 
 Choose the encryption shift (can be over 26)
 
